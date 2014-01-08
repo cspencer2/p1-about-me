@@ -1,12 +1,19 @@
 body {
 	background: aqua;
 	font-family: arial;
-
-
 }
 
 img {
+	width: 300px;
+}
 
-	widows: 300;
+#leftcol {
+	background: blue;
+}
+.round {
+	border-radius: 20px;
+}
 
+.shadow {
+	box-shadow: 20px;
 }
